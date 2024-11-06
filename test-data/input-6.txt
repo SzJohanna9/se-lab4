@@ -1,0 +1,3 @@
+# Create a ship with one non empty torpedo store (secondary) that never fail
+GT4500,10,0,0,0
+TORPEDO,ALL  # should have fired from the primary store
